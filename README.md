@@ -16,10 +16,7 @@ Full Stack Developer | MERN Stack | DSA Enthusiast  <br>Building responsive web 
 ![](https://github-profile-trophy.vercel.app/?username=himan-10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-## ✍️ Dev Quote
-
-> "First, solve the problem. Then, write the code." – John Johnson
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=himan-10&limit=5&theme=dark&combine_all_yearly_contributions=true)
